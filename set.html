@@ -73,9 +73,14 @@ function redraw(){
         document.getElementById("feed").appendChild(newbox);
         newbox.className = "box";
         newbox.id = "box" + index.toString();
-        var deletebutton = document.createElement("IMG");
+        var deletebutton = document.createElement("SPAN");
         deletebutton.className = "button";
-        deletebutton.src = "iconsymbols/delete.svg";
+        deletebutton.innerHTML = "X";
+        deletebutton.style.color = "#ff0000";
+        deletebutton.style.border = "solid";
+        deletebutton.style.borderColor = "#ff0000";
+        newbox.style.marginBottom = "1em";
+
         newbox.appendChild(deletebutton);
         deletebutton.onclick = function(){
             boxindex = parseInt(this.parentElement.id.substring(3));
