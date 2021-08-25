@@ -1,8 +1,12 @@
 # Bioweb
 
+## [localhost/](http://localhost/)
+
+## [GITHUB.COM/LAFELABS/BIOWEB](https://github.com/LafeLabs/bioweb)
+
 #  <span style = "color:red">B</span><span style = "color:orange">I</span><span style = "color:yellow">O</span><span style = "color:green">W</span><span style = "color:blue">E</span><span style = "color:purple">B</span>
 
-[GITHUB.COM/LAFELABS/BIOWEB](https://github.com/LafeLabs/bioweb)
+
 
  - everything replicates(all code can be replicated by all users at all times)
  - everything evolves(all code can be edited by all users at all times)
