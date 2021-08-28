@@ -2,10 +2,13 @@
 
 ## [localhost/](http://localhost/)
 
+## [www.trashrobot.org](www.trashrobot.org)
+
 ## [GITHUB.COM/LAFELABS/BIOWEB](https://github.com/LafeLabs/bioweb)
 
-#  <span style = "color:red">B</span><span style = "color:orange">I</span><span style = "color:yellow">O</span><span style = "color:green">W</span><span style = "color:blue">E</span><span style = "color:purple">B</span>
+## [Geometron THING git repository](https://github.com/lafelabs/thing/)
 
+#  <span style = "color:red">B</span><span style = "color:orange">I</span><span style = "color:yellow">O</span><span style = "color:green">W</span><span style = "color:blue">E</span><span style = "color:purple">B</span>
 
 
  - everything replicates(all code can be replicated by all users at all times)
@@ -64,4 +67,21 @@ cd html
 php replicator.php
 sudo chmod -R 0777 *
 </pre>
+
+### Use cases
+
+ - [geometron](https://www.trashrobot.org/)
+ - shopping center pages
+ - corner market
+ - rideshare
+ - mutual aid coordination 
+ - personals ads
+ - local news feeds
+ - dumpster updates for scavengers
+ - self-replicating open source hardware replicators
+ - self-replicating custom calculators for specific technical applications
+ - building general self-replicating HTML applications to do any arbitrary task
+ - personal home pages
+ - local bulletin boards in a community space served over the wifi
+ - self-replicating zines
 
