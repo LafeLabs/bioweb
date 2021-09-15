@@ -18,6 +18,7 @@
         "fileloader.txt",
         "filesaver.txt",
         "mkdir.txt",
+        "rdelete.txt",
         "removephp.txt",
         "replicator.txt",
         "setreplicator.txt",
