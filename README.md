@@ -17,13 +17,20 @@
  - everything evolves(all code can be edited by all users at all times)
  - everything dies(all code can be deleted by all users at all times)
 
-[readme.html](readme.html)
+ - [http://localhost](http://localhost)
+ - [../](../)
+ - [fork.html](fork.html)
+ - [readme.html](readme.html)
+ - [home](index.html)
+ - [editor.php](editor.php)
+ - [scrolleditor.html](scrolleditor.html)
+ - [set.html](set.html)
+ - [dnagenerator.php](dnagenerator.php)
 
-[home](index.html)
 
 The raw global replicator code for this is found here:
 
-[https://raw.githubusercontent.com/LafeLabs/bioweb/master/php/replicator.txt](https://raw.githubusercontent.com/LafeLabs/bioweb/master/php/replicator.txt)
+[https://raw.githubusercontent.com/LafeLabs/bioweb/main/php/replicator.txt](https://raw.githubusercontent.com/LafeLabs/bioweb/main/php/replicator.txt)
 
 [local replicator link](php/replicator.txt)
 
@@ -62,7 +69,7 @@ then
 <pre style = "overflow:scroll">
 cd /var/www/html
 sudo rm index.html
-sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/bioweb/master/php/replicator.txt
+sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/bioweb/main/php/replicator.txt
 cd ..
 sudo chmod -R 0777 *
 cd html

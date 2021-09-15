@@ -1,6 +1,7 @@
 {
     "html": [
         "README.md",
+        "fork.html",
         "index.html",
         "readme.html",
         "scrolleditor.html",
@@ -11,10 +12,12 @@
         "set.txt"
     ],
     "php": [
+        "dir.txt",
         "dnagenerator.txt",
         "editor.txt",
         "fileloader.txt",
         "filesaver.txt",
+        "mkdir.txt",
         "removephp.txt",
         "replicator.txt",
         "setreplicator.txt",
