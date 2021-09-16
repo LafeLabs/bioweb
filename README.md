@@ -55,6 +55,8 @@ php replicator.php
 sudo chmod -R 0777 *
 </pre>
 
+Be sure to change the code in the above to represent the correct address of php/replicator.txt in any new copy of the github repository.
+
 ### Use cases
 
  - [geometron](https://www.trashrobot.org/)
