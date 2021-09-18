@@ -12,6 +12,7 @@
  - [global replicator code link](https://raw.githubusercontent.com/LafeLabs/bioweb/main/php/replicator.txt)
  - [local replicator code link](php/replicator.txt)
  - [replicator.php](replicator.php)
+ - [copy.html](copy.html)
  - [copy arduino code server replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pi/main/arduino/codeserver/php/replicator.txt&to=replicator.php)
  - [copy python code server replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pi/main/python/codeserver/php/replicator.txt&to=replicator.php)
  - [copy geometron server replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/thing/master/php/replicator.txt&to=replicator.php)
@@ -106,6 +107,9 @@ THERE ARE NO DATABASES
  - [fork.html](fork.html): lists directories with links to all of them, allows for creating new directories and also deleting any directory
  - [data/dna.txt](data/dna.txt): a JSON file which lists all the files replicated by replicator.php
  - [data/set.txt](data/set.txt): a JSON file which lists files to replicate using setreplicator.php
+ - [copy.php](php/copy.txt): php script which copies any file anywhere on the web to the local server, syntax is copy.php?from=[from url]&to=[to url]
+ - [copy.html](copy.html):web app which creates a copy.php link with correct syntax
+
 
 
 
