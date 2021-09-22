@@ -13,8 +13,8 @@
  - [local replicator code link](php/replicator.txt)
  - [replicator.php](replicator.php)
  - [copy.html](copy.html)
- - [copy arduino code server replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pi/main/arduino/codeserver/php/replicator.txt&to=replicator.php)
- - [copy python code server replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pi/main/python/codeserver/php/replicator.txt&to=replicator.php)
+ - [copy code server replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/codeserver/main/php/replicator.txt&to=replicator.php)
+ - [copy board server replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/boardserver/main/php/replicator.txt&to=replicator.php)
  - [copy geometron server replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/thing/master/php/replicator.txt&to=replicator.php)
  - [copy chaos server replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt&to=replicator.php)
 
